@@ -54,9 +54,18 @@ If the control input changes to AB = 10, then all the gates are restricted excep
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: Rajagopal V
+RegisterNumber: 23002920  
 */
+
+### Code
+
+###  Multiplexer
+![image](https://github.com/Rajagopalvengatesan/Exercise-07-Multiplexer-and-De-multiplexer/assets/144870784/78e90112-faf3-458f-976b-404f2aac43dc)
+
+### De-Multiplexer
+![image](https://github.com/Rajagopalvengatesan/Exercise-07-Multiplexer-and-De-multiplexer/assets/144870784/6a53bb8b-f146-41be-b839-1b381bd98dcf)
+
 
 
 
@@ -65,6 +74,12 @@ RegisterNumber:
 
 ### RTL LOGIC  
 
+### Multiplexer 
+
+![image](https://github.com/Rajagopalvengatesan/Exercise-07-Multiplexer-and-De-multiplexer/assets/144870784/7e555815-aa0c-4ebf-afd1-0c5e2b498874)
+
+### De-multiplexer 
+![image](https://github.com/Rajagopalvengatesan/Exercise-07-Multiplexer-and-De-multiplexer/assets/144870784/f5364b47-b3a7-4346-8060-474aba6e418b)
 
 
 
@@ -74,11 +89,21 @@ RegisterNumber:
 
 ### TIMING DIGRAMS  
 
+### Multiplexer 
+![292668396-6e21778c-956c-4aed-adea-8a27666dffad](https://github.com/Rajagopalvengatesan/Exercise-07-Multiplexer-and-De-multiplexer/assets/144870784/cf8bcb1e-63d2-44d1-adbe-fc0d711c20e8)
 
+### De-Multiplexer 
 
+![292668408-d1599f1c-17f8-4d40-8928-91177f46f733](https://github.com/Rajagopalvengatesan/Exercise-07-Multiplexer-and-De-multiplexer/assets/144870784/ee5b3571-37d0-42fc-a94d-f1bf04552219)
 
 
 ### TRUTH TABLE 
+
+### Multiplexer 
+![image](https://github.com/Rajagopalvengatesan/Exercise-07-Multiplexer-and-De-multiplexer/assets/144870784/7071970d-72e4-476c-9774-d58317723eb6)
+
+### De-Multiplexer 
+![image](https://github.com/Rajagopalvengatesan/Exercise-07-Multiplexer-and-De-multiplexer/assets/144870784/a87425b4-06cf-4a7c-95a9-4fe900d6ed65)
 
 
 
